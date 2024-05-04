@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Xml;
 using System.Web.Services.Protocols;
 
-namespace InvoiceIntegration
+namespace InvoiceController
 {
     class Program
     {
